@@ -34,7 +34,7 @@
 			})(window, document);
 		</script>
 		<link rel="icon" type="image/x-icon" href="/favicon.ico" />
-		<link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 	</head>
 	<body>
 		<header class="nav">
