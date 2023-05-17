@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" viewBox="0 0 87.5 19">
+    <g transform="matrix(1,0,0,1,-2.09442,-0.79606)">
+        <g transform="matrix(0.0817418,0,0,0.0817418,-30.6444,-98.9182)">
+            <g transform="matrix(0.344819,0,0,0.344819,165.744,946.51)">
+                <g>
+                    <path d="M843.071,1026.62C773.528,1066 720.196,1130.73 695.665,1208.22C686.043,1177.83 680.852,1145.47 680.852,1111.91C680.852,973.688 768.911,855.871 891.94,811.549C925.693,799.389 962.079,792.761 1000,792.761C1037.92,792.761 1074.31,799.389 1108.06,811.549C1140.64,861.576 1159.57,921.284 1159.57,985.38C1159.57,999.353 1158.67,1013.12 1156.93,1026.62C1110.58,1000.37 1057.03,985.38 1000,985.38C942.974,985.38 889.422,1000.37 843.071,1026.62Z" style="fill:url(#_Linear1);"/>
+                    <path d="M1304.34,1208.22C1313.96,1177.83 1319.15,1145.47 1319.15,1111.91C1319.15,973.688 1231.09,855.871 1108.06,811.549C1140.64,861.576 1159.57,921.284 1159.57,985.38C1159.57,999.353 1158.67,1013.12 1156.93,1026.62C1143.93,1127.16 1084.08,1213.1 1000,1261.78C1046.95,1288.96 1101.46,1304.53 1159.57,1304.53C1197.5,1304.53 1233.88,1297.9 1267.63,1285.74C1283.15,1261.91 1295.58,1235.88 1304.34,1208.22Z" style="fill:url(#_Linear2);"/>
+                    <path d="M695.665,1208.22C720.196,1130.73 773.528,1066 843.071,1026.62C856.065,1127.16 915.925,1213.1 1000,1261.78C1046.95,1288.96 1101.46,1304.53 1159.57,1304.53C1197.5,1304.53 1233.88,1297.9 1267.63,1285.74C1210.68,1373.19 1112.05,1431.06 1000,1431.06C887.953,1431.06 789.315,1373.19 732.366,1285.74C716.845,1261.91 704.42,1235.88 695.665,1208.22" style="fill:url(#_Linear3);"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1.04045,-7,420.567)">
+                <g transform="matrix(184.536,0,0,184.536,1520.85,936.735)">
+                </g>
+                <text xmlns="http://www.w3.org/2000/svg" x="654.847px" y="936.735px" style="font-family:'Futura-Medium', 'Futura', sans-serif;font-weight:500;font-size:184.536px;fill:url(#_Linear4);">WikiForge</text>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(571.97,-323.526,323.526,571.97,695.665,1199.71)"><stop offset="0" style="stop-color:rgb(63,81,181);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(33,150,243);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(119.257,-431.809,431.809,119.257,1000,1261.78)"><stop offset="0" style="stop-color:rgb(63,81,181);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(33,150,243);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.57762e-14,-257.646,257.646,1.57762e-14,1267.63,1284.91)"><stop offset="0" style="stop-color:rgb(63,81,181);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(33,150,243);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(856.724,0,0,200.124,655.568,884.609)"><stop offset="0" style="stop-color:rgb(63,81,181);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(33,150,243);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>

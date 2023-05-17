@@ -1,0 +1,16 @@
+{
+	"dir": "ltr",
+	"lang": "en",
+	"name": "WikiForge",
+	"scope": "https://wikiforge.net/",
+	"icons": [
+		{
+			"src": "https://static.wikiforge.net/metawiki/8/88/WikiForge_Logo.svg",
+			"sizes": "any",
+			"type": "image/svg+xml"
+		}
+	],
+	"display": "standalone",
+	"orientation": "portrait",
+	"start_url": "/"
+}
