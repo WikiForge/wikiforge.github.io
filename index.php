@@ -244,7 +244,7 @@
 						<div class="column align-right">
 							<div class="row">
 								<div><a href="#">Privacy Policy</a></div>
-								<div><a href="#" class="ml-lg">Terms and Conditions</a></div>
+								<div><a href="https://meta.wikiforge.net/wiki/Special:MyLanguage/Terms_of_Service" class="ml-lg">Terms and Conditions</a></div>
 							</div>
 						</div>
 					</div>
