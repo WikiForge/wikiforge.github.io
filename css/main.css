@@ -341,6 +341,15 @@ a {
   color: #364fc7;
 }
 
+.button.main.pricing-button {
+  background-color: #ff6b6b;
+  text-decoration: none;
+}
+
+.button.pricing-button:hover {
+  background-color: #ff5252;
+}
+
 .icon {
   display: -webkit-box;
   display: -webkit-flex;

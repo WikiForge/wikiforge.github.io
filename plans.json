@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Basic",
+		"price": 9.99,
+		"duration": "month",
+		"features": [
+			"10 GB file storage",
+			"Custom domain support",
+			"CirrusSearch/ElasticSearch support",
+			"SSO (Single Sign-On) integration support",
+			"ManageWiki extension: Effortlessly manage popular settings, group rights, namespaces, and hundreds of extensions and skins directly on your wiki."
+		],
+		"extraCosts": {
+			"10 GB file storage": "($2 per 10 GB after that)"
+		},
+		"info": "Get started with our basic plan that offers essential features for your premium wiki."
+	},
+	{
+		"name": "Dedicated",
+		"price": 28.99,
+		"duration": "month",
+		"features": [
+			"50 GB file storage",
+			"Custom domain support",
+			"CirrusSearch/ElasticSearch support",
+			"SSO (Single Sign-On) integration support",
+			"ManageWiki extension: Effortlessly manage popular settings, group rights, namespaces, and hundreds of extensions and skins directly on your wiki.",
+			"Dedicated MediaWiki servers (2vCPU / 2GB RAM)"
+		],
+		"extraCosts": {
+			"50 GB file storage": "($2 per 10 GB after that)",
+			"Dedicated MediaWiki servers (2vCPU / 2GB RAM)": "($10/month/server for extra servers in a load-balanced cluster)"
+		},
+		"info": "Upgrade to our dedicated plan for advanced capabilities and dedicated resources. Host your wiki on dedicated MediaWiki servers."
+	},
+	{
+		"name": "Enterprise",
+		"price": "Contact us",
+		"features": [
+			"All features from the dedicated plan",
+			"Customize resources to your needs",
+			"Custom extensions (if technically feasible)"
+		],
+		"info": "Tailored solutions for enterprise customers with specific requirements and scalability needs."
+	}
+]

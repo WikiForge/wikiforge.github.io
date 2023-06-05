@@ -2,16 +2,16 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>WikiForge - The Ultimate Premium Wiki Hosting Platform</title>
+		<title>WikiForge Pricing</title>
 		<meta content="width=device-width, initial-scale=1" name="viewport" />
 		<meta name="description" content="Create, manage, and collaborate with ease on wikis, powered by WikiForge – the ultimate wiki farm for all your knowledge-sharing needs. Try our premium wiki hosting today." />
 		<meta name="twitter:description" content="Create, manage, and collaborate with ease on wikis, powered by WikiForge – the ultimate wiki farm for all your knowledge-sharing needs. Try our premium wiki hosting today." />
 		<meta property="og:description" content="Create, manage, and collaborate with ease on wikis, powered by WikiForge – the ultimate wiki farm for all your knowledge-sharing needs. Try our premium wiki hosting today." />
 		<meta property="og:type" content="website" />
-		<meta property="og:title" content="WikiForge" />
-		<meta property="og:site_name" content="WikiForge" />
+		<meta property="og:title" content="WikiForge Pricing" />
+		<meta property="og:site_name" content="WikiForge Pricing" />
 		<meta name="twitter:card" content="summary" />
-		<meta name="twitter:title" content="WikiForge" />
+		<meta name="twitter:title" content="WikiForge Pricing" />
 		<meta name="twitter:site" content="@WikiForge" />
 		<meta name="mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-capable" content="yes" />
@@ -22,9 +22,10 @@
 		<link href="/css/normalize.css" rel="stylesheet" type="text/css" />
 		<link href="/css/webflow.css" rel="stylesheet" type="text/css" />
 		<link href="/css/main.css" rel="stylesheet" type="text/css" />
+		<link href="/css/pricing.css" rel="stylesheet" type="text/css" />
 		<link rel="icon" type="image/x-icon" href="/favicon.ico" />
 		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-		<script type="application/ld+json">[{"@context":"https:\/\/schema.org","@type":"WebPage","headline":"WikiForge","url":"/","thumbnailUrl":"","dateCreated":"","creator":[],"keywords":[]}]</script>
+		<script type="application/ld+json">[{"@context":"https:\/\/schema.org","@type":"WebPage","headline":"WikiForge Pricing","url":"/","thumbnailUrl":"","dateCreated":"","creator":[],"keywords":[]}]</script>
 	</head>
 	<body>
 		<header class="nav">
@@ -65,94 +66,18 @@
 						<a href="https://meta.wikiforge.net/wiki/Special:RequestPremiumWiki" class="button xl main mt-lg w-button">
 							Start Your Wiki Journey Today
 						</a>
-						<a href="/pricing.php" class="button xl main pricing-button mt-lg w-button">
-							See Pricing and Features
-						</a>
 					</div>
 				</div>
 			</div>
 			<div class="circle"></div>
 		</div>
 		<div class="section">
-			<img src="/images/product-shot.png" srcset="
-				/images/product-shot-p-500.png 500w,
-				/images/product-shot-p-800.png 800w,
-				/images/product-shot-p-1080.png 1080w,
-				/images/product-shot.png 1521w
-			" sizes="(max-width: 479px) 93vw, (max-width: 767px) 94vw, 720px"
-				alt="Product Shot" class="product-shot" />
-		</div>
-		<div class="section">
-			<div class="container mt-2xl mb-2xl">
-				<div class="row">
-					<div class="column align-center">
-						<h2 class="max-w-lg text-center">
-							Forge a path to knowledge with WikiForge.
-						</h2>
-						<p class="text-lg text-center max-w-md">
-							With WikiForge, you can easily create and manage wikis for any purpose. From team collaboration to personal projects, our platform is the perfect solution for sharing knowledge and ideas. Plus, our reliable hosting and advanced features make it easy to customize your wiki to meet your needs.
-						</p>
-					</div>
-				</div>
+			<div class="pricing container">
+				<h1>WikiForge Pricing</h1>
+				<div id="pricingTable"><noscript>Sorry, this pricing page requires JavaScript to be enabled in your browser. Please enable JavaScript and try again. Thank you!</noscript></div>
 			</div>
 		</div>
-		<div class="section">
-			<div class="container">
-				<div class="row items-center v-t">
-					<div class="column align-left p-2xl">
-						<h2 class="max-w-lg">
-							Create a wiki that works for you, not the other way around.
-						</h2>
-						<p class="text-lg">
-							Don't settle for a wiki platform that limits your possibilities. WikiForge uses the most recent version of MediaWiki by default and offers multiple versions to choose from. Create a wiki that works for you, your team, or your organization and share knowledge seamlessly with WikiForge.
-						</p>
-					</div>
-					<div class="column align-center p-2xl">
-						<img src="/images/marginalia-1.png" alt="Marginalia 1" class="feature-card" />
-					</div>
-				</div>
-				<div class="row reverse items-center v-t">
-					<div class="column align-left p-2xl">
-						<h2 class="max-w-lg">
-							Customize your wiki to fit your needs.
-						</h2>
-						<p class="text-lg">
-							No two wikis are the same, and with WikiForge, you have the power to customize yours to fit your unique needs. Choose from hundreds of available extensions and skins, and if you don't see what you need, simply request one. With WikiForge, creating and managing a personalized wiki has never been easier.
-						</p>
-					</div>
-					<div class="column align-center p-2xl">
-						<img src="/images/marginalia-2.png" alt="Marginalia 2" class="feature-card" />
-					</div>
-				</div>
-				<div class="row items-center v-t">
-					<div class="column align-left p-2xl">
-						<h2 class="max-w-lg">
-							Effortlessly manage your wikis with our intuitive interface.
-						</h2>
-						<p class="text-lg">
-							Say goodbye to the hassle of managing your wikis with complicated tools. The ManageWiki interface offers a simple and intuitive way to manage your wikis directly from the platform. Enjoy a seamless experience that allows you to focus on creating and collaborating on content, not managing it.
-						</p>
-					</div>
-					<div class="column align-center p-2xl">
-						<img src="/images/marginalia-3.png" alt="Marginalia 3" class="feature-card" />
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="section main mt-2xl">
-			<div class="container mt-2xl mb-2xl">
-				<div class="row items-center">
-					<div class="column align-center">
-						<h1 class="max-w-lg text-giga text-center text-white">
-							Unlock your team's full potential and streamline knowledge-sharing with WikiForge.
-						</h1>
-						<a href="https://meta.wikiforge.net/wiki/Special:RequestPremiumWiki" class="button xl main white mt-lg w-button">
-							Start Your Wiki Journey Today
-						</a>
-					</div>
-				</div>
-			</div>
-		</div>
+
 		<div class="section pb-2xl-m">
 			<div class="container mt-2xl mb-2xl">
 				<div class="row v-l">
@@ -244,5 +169,6 @@
 				</div>
 			</div>
 		</div>
+		<script src="/js/pricing.js"></script>
 	</body>
 </html>
