@@ -11,6 +11,8 @@
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content="WikiForge - The Ultimate Premium Wiki Hosting Platform" />
 		<meta property="og:site_name" content="WikiForge" />
+		<meta property="og:url" content="https://wikiforge.net/" />
+		<meta property="og:locale" content="en_US" />
 		<meta name="twitter:card" content="summary" />
 		<meta name="twitter:title" content="WikiForge - The Ultimate Premium Wiki Hosting Platform" />
 		<meta name="twitter:site" content="@WikiForge" />

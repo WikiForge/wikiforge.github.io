@@ -11,6 +11,8 @@
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content="WikiForge Pricing" />
 		<meta property="og:site_name" content="WikiForge Pricing" />
+		<meta property="og:url" content="https://wikiforge.net/pricing.php" />
+		<meta property="og:locale" content="en_US" />
 		<meta name="twitter:card" content="summary" />
 		<meta name="twitter:title" content="WikiForge Pricing" />
 		<meta name="twitter:site" content="@WikiForge" />
