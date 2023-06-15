@@ -115,7 +115,7 @@
 						</p>
 					</div>
 					<div class="column align-center p-2xl">
-						<img src="/images/marginalia-3.png" alt="Marginalia 3" class="feature-card" />
+						<img src="/images/marginalia-8.png" alt="Marginalia 8" class="feature-card" />
 					</div>
 				</div>
 				<div class="row items-center v-t">
@@ -154,7 +154,7 @@
 						</p>
 					</div>
 					<div class="column align-center p-2xl">
-						<img src="/images/marginalia-3.png" alt="Marginalia 3" class="feature-card" />
+						<img src="/images/marginalia-7.png" alt="Marginalia 7" class="feature-card" />
 					</div>
 				</div>
 			</div>
