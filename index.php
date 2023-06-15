@@ -36,7 +36,7 @@
 					<div class="column align-left">
 						<a href="#" aria-current="page" class="w-inline-block w--current">
 							<div class="logo">
-								<img src="/images/WikiForge_Wordmark.svg" width="100" alt="WikiForge Wordmark" />
+								<img src="/images/WikiForge_Wordmark.svg" width="175" alt="WikiForge Wordmark" />
 							</div>
 						</a>
 					</div>
@@ -60,10 +60,10 @@
 				<div class="row">
 					<div class="column align-center">
 						<h1 class="test-giga text-center">
-							Unleash the power of knowledge-sharing with WikiForge.
+							Forge your wiki's path to success with WikiForge.
 						</h1>
 						<p class="text-lg text-center max-w-lg">
-							WikiForge is the ultimate wiki farm that lets you create, manage, and collaborate on wikis effortlessly. Whether you're an individual or an organization, WikiForge has everything you need to share your knowledge with the world. Join us today!
+							Create, manage, and collaborate effortlessly with WikiForge's professional MediaWiki hosting platform. Whether you're an individual or an organization, WikiForge has everything you need to ensure your wiki's success.
 						</p>
 						<a href="https://meta.wikiforge.net/wiki/Special:RequestPremiumWiki" class="button xl main mt-lg w-button">
 							Start Your Wiki Journey Today
@@ -130,10 +130,10 @@
 				<div class="row items-center v-t">
 					<div class="column align-left p-2xl">
 						<h2 class="max-w-lg">
-							Effortlessly manage your wikis with our intuitive interface.
+							Spend time creating, not configuring.
 						</h2>
 						<p class="text-lg">
-							Say goodbye to the hassle of managing your wikis with complicated tools. The ManageWiki interface offers a simple and intuitive way to manage your wikis directly from the platform. Enjoy a seamless experience that allows you to focus on creating and collaborating on content, not managing it.
+							With our ManageWiki interface, effortlessly configure and manage your wikis directly from through it. You don't need to know how to code or use a terminal in order to configure your wiki or install extensions. Leave the heavy lifting up to us.
 						</p>
 					</div>
 					<div class="column align-center p-2xl">
@@ -214,7 +214,7 @@
 					</div>
 					<div class="column align-left">
 						<h6 class="max-w-lg mb-xl footer-header">Company</h6>
-						<div>About</div>
+						<a href="/about.php" class="mt-md">About</a>
 						<!-- None for now -->
 						<!--<a href="#" class="mt-md">Jobs</a>-->
 						<a href="https://blog.wikiforge.net" class="mt-md">Blog</a>
@@ -227,7 +227,7 @@
 					<div class="column align-left">
 						<h6 class="max-w-lg mb-xl footer-header">Resources</h6>
 						<div>FAQ</div>
-						<div>Help Center</div>
+						<a href="https://meta.wikiforge.net/wiki/Special:MyLanguage/Help_center" class="mt-md">Help center</a>
 					</div>
 				</div>
 				<div class="border-t mt-xl">
