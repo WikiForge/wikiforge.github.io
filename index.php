@@ -68,7 +68,7 @@
 						<a href="https://meta.wikiforge.net/wiki/Special:RequestPremiumWiki" class="button xl main mt-lg w-button">
 							Start Your Wiki Journey Today
 						</a>
-						<a href="/pricing.php" class="button xl main pricing-button mt-lg w-button">
+						<a href="/pricing.php" class="button mt-lg">
 							See Pricing and Features
 						</a>
 					</div>
