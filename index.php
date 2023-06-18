@@ -20,6 +20,7 @@
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="application-name" content="WikiForge" />
 		<meta name="apple-mobile-web-app-title" content="WikiForge" />
+		<meta name="google-site-verification" content="zuCshxLAUZX0PrAhreXgT47Cil44JkugODX6rGU1Dq0" />
 		<link rel="manifest" href="/manifest.json" />
 		<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/" />
 		<link href="/css/normalize.css" rel="stylesheet" type="text/css" />
