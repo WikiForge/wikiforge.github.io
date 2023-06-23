@@ -45,6 +45,11 @@ function generatePricingTable(plans) {
 			const featureItem = document.createElement('li');
 			const featureText = document.createElement('span');
 			featureText.textContent = feature;
+
+			if (plan.resources && feature in plan.resources) {
+				featureText.textContent += ' (' + plan.resources[feature] + ')';
+			}
+
 			featureItem.appendChild(featureText);
 
 			if (plan.extraCosts && feature in plan.extraCosts) {
