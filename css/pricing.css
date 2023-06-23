@@ -1,3 +1,21 @@
+.tabs {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.tab {
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
+.tab.active {
+    background-color: gray;
+}
+
 .pricing.container {
     max-width: 900px;
     margin: 0 auto;

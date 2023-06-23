@@ -1,26 +1,33 @@
 [
 	{
 		"name": "Basic",
-		"price": 9.99,
-		"duration": "month",
+		"price": {
+			"monthly": 9.99,
+			"yearly": 99.99
+		},
 		"features": [
-			"10 GB file storage",
+			"10GB file storage",
 			"Custom domain support",
 			"CirrusSearch/ElasticSearch support",
 			"SSO (Single Sign-On) integration support",
 			"ManageWiki extension: Effortlessly manage popular settings, group rights, namespaces, and hundreds of extensions and skins directly on your wiki."
 		],
 		"extraCosts": {
-			"10 GB file storage": "($2 per 10 GB after that)"
+			"10GB file storage": {
+				"monthly": "($2/month/10GB after that)",
+				"yearly": "($20/year/10GB after that)"
+			}
 		},
 		"info": "Get started with our basic plan that offers essential features for your premium wiki."
 	},
 	{
 		"name": "Dedicated",
-		"price": 28.99,
-		"duration": "month",
+		"price": {
+			"monthly": 28.99,
+			"yearly": 289.99
+		},
 		"features": [
-			"50 GB file storage",
+			"50GB file storage",
 			"Custom domain support",
 			"CirrusSearch/ElasticSearch support",
 			"SSO (Single Sign-On) integration support",
@@ -28,8 +35,14 @@
 			"Dedicated MediaWiki servers (2vCPU / 1GB RAM)"
 		],
 		"extraCosts": {
-			"50 GB file storage": "($2 per 10 GB after that)",
-			"Dedicated MediaWiki servers (2vCPU / 1GB RAM)": "($10/month/server for extra servers in a load-balanced cluster)"
+			"50GB file storage": {
+				"monthly": "($2/month/50GB after that)",
+				"yearly": "($20/year/50GB after that)"
+			},
+			"Dedicated MediaWiki servers (2vCPU / 1GB RAM)": {
+				"monthly": "($10/month/server for extra servers in a load-balanced cluster)",
+				"yearly": "($100/year/server for extra servers in a load-balanced cluster)"
+			}
 		},
 		"info": "Upgrade to our dedicated plan for advanced capabilities and dedicated resources. Host your wiki on dedicated MediaWiki servers."
 	},
