@@ -25,11 +25,14 @@
 			"CirrusSearch/ElasticSearch support",
 			"SSO (Single Sign-On) integration support",
 			"ManageWiki extension: Effortlessly manage popular settings, group rights, namespaces, and hundreds of extensions and skins directly on your wiki.",
-			"Dedicated MediaWiki servers (2vCPU / 1GB RAM)"
+			"Dedicated MediaWiki servers"
 		],
 		"extraCosts": {
 			"50 GB file storage": "($2 per 10 GB after that)",
-			"Dedicated MediaWiki servers (2vCPU / 1GB RAM)": "($10/month/server for extra servers in a load-balanced cluster)"
+			"Dedicated MediaWiki servers": "($10/month/server for extra servers in a load-balanced cluster)"
+		},
+		"resources": {
+			"Dedicated MediaWiki servers": "2vCPU / 1GB RAM"
 		},
 		"info": "Upgrade to our dedicated plan for advanced capabilities and dedicated resources. Host your wiki on dedicated MediaWiki servers."
 	},
