@@ -26,6 +26,7 @@
 		<link href="/css/webflow.css" rel="stylesheet" type="text/css" />
 		<link href="/css/main.css" rel="stylesheet" type="text/css" />
 		<link href="/css/pricing.css" rel="stylesheet" type="text/css" />
+		<link rel="canonical" href="https://wikiforge.net/pricing.php" />
 		<link rel="icon" type="image/x-icon" href="/favicon.ico" />
 		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 		<script type="application/ld+json">[{"@context":"https:\/\/schema.org","@type":"WebPage","headline":"WikiForge Pricing","url":"/","thumbnailUrl":"","dateCreated":"","creator":[],"keywords":[]}]</script>
