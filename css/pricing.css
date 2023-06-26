@@ -71,4 +71,7 @@
         flex-wrap: wrap;
         justify-content: center;
     }
+    .mb-3xl {
+        margin-bottom: 35px;
+    }
 }
