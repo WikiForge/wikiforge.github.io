@@ -74,6 +74,10 @@
     color: #999;
 }
 
+.mb-3xl {
+    margin-bottom: 35px;
+}
+
 @media (min-width: 768px) {
     .pricing.container {
         text-align: center;

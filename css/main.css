@@ -171,6 +171,7 @@ a {
   display: -ms-flexbox;
   display: flex;
   height: 32px;
+  width: 175px;
   -webkit-box-align: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
@@ -719,6 +720,9 @@ a {
     -webkit-flex: 0 0 auto;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
+  }
+  .logo > img {
+    width: 100px;
   }
 }
 

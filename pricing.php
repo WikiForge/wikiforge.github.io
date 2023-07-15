@@ -10,7 +10,7 @@
 		<meta property="og:description" content="Create, manage, and collaborate with ease on wikis, powered by WikiForge – the ultimate wiki farm for all your knowledge-sharing needs. Try our premium wiki hosting today." />
 		<meta property="og:type" content="website" />
 		<meta property="og:title" content="WikiForge Pricing" />
-		<meta property="og:site_name" content="WikiForge Pricing" />
+		<meta property="og:site_name" content="WikiForge" />
 		<meta property="og:url" content="https://wikiforge.net/pricing.php" />
 		<meta property="og:locale" content="en_US" />
 		<meta name="twitter:card" content="summary" />
@@ -36,7 +36,7 @@
 			<div class="container">
 				<div class="row items-center mb-lg">
 					<div class="column align-left">
-						<a href="#" aria-current="page" class="w-inline-block w--current">
+						<a href="https://wikiforge.net" aria-current="page" class="w-inline-block w--current">
 							<div class="logo">
 								<img src="/images/WikiForge_Wordmark.svg" width="100" alt="WikiForge Wordmark" />
 							</div>
@@ -62,21 +62,15 @@
 				<div class="row">
 					<div class="column align-center">
 						<h1 class="test-giga text-center">
-							Unleash the power of knowledge-sharing with WikiForge.
+							Pricing and features
 						</h1>
-						<p class="text-lg text-center max-w-lg">
-							WikiForge is the ultimate wiki farm that lets you create, manage, and collaborate on wikis effortlessly. Whether you're an individual or an organization, WikiForge has everything you need to share your knowledge with the world. Join us today!
-						</p>
-						<a href="https://meta.wikiforge.net/wiki/Special:RequestPremiumWiki" class="button xl main mt-lg w-button">
-							Start Your Wiki Journey Today
-						</a>
 					</div>
 				</div>
 			</div>
 			<div class="circle"></div>
 		</div>
 		<div class="section">
-			<div class="pricing container">
+			<div class="pricing container" style="max-width: 1200px;">
 				<h1>WikiForge Pricing</h1>
 				<!-- <div class="tabs">
 					<div class="tab" id="monthlyTab">Monthly</div>
@@ -84,6 +78,104 @@
 				</div> -->
 				<div id="pricingTable">
 					<noscript>Sorry, this pricing page requires JavaScript to be enabled in your browser. Please enable JavaScript and try again. Thank you!</noscript>
+				</div>
+			</div>
+		</div>
+
+		<div class="section main mt-2xl">
+			<div class="container mt-2xl mb-2xl">
+				<div class="row items-center">
+					<div class="column align-center">
+						<h1 class="max-w-lg text-giga text-center text-white">
+							Start your wiki journey today and enjoy the ease of using WikiForge.
+						</h1>
+						<a href="https://meta.wikiforge.net/wiki/Special:RequestPremiumWiki" class="button xl main white mt-lg w-button">
+							Sign up and start my wiki
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section">
+			<div class="container">
+				<div class="row items-center v-t">
+					<div class="column align-left p-2xl">
+						<h2 class="max-w-lg">
+							Custom domain support
+						</h2>
+						<p class="text-lg">
+							Express and represent yourself with a custom domain. While others charge you for the ability to use a custom domain, we allow it on all our plans. Simply point the domain to us and we'll do the rest.
+						</p>
+					</div>
+					<div class="column align-center p-2xl">
+						<img src="/images/marginalia-5.png" alt="Marginalia 5" class="feature-card" />
+					</div>
+				</div>
+				<div class="row reverse items-center v-t">
+					<div class="column align-left p-2xl">
+						<h2 class="max-w-lg">
+							CirrusSearch (ElasticSearch), out of the box
+						</h2>
+						<p class="text-lg">
+							Use the powerful search engine that organizations like Wikimedia use in order to shift through mountains of data and text. ElasticSearch provides a seamless in-wiki search experience that the default MediaWiki search engine just can't provide.
+						</p>
+					</div>
+					<div class="column align-center p-2xl">
+						<img src="/images/marginalia-8.png" alt="Marginalia 8" class="feature-card" />
+					</div>
+				</div>
+				<div class="row items-center v-t">
+					<div class="column align-left p-2xl">
+						<h2 class="max-w-lg">
+							LDAP, OpenID, SAML, and other SSO solutions supported
+						</h2>
+						<p class="text-lg">
+							Managing accounts can be a hassle, more so in an enterprise enviornment. Don't get fragmented! All plans come with SSO support so that system administrators can effortlessly take the reins of their users, including support for LDAP, OpenID, SAML, and more.
+						</p>
+					</div>
+					<div class="column align-center p-2xl">
+						<img src="/images/marginalia-4.png" alt="Marginalia 4" class="feature-card" />
+					</div>
+				</div>
+				<div class="row reverse items-center v-t">
+					<div class="column align-left p-2xl">
+						<h2 class="max-w-lg">
+							Let professionals do the heavy lifting
+						</h2>
+						<p class="text-lg">
+							Spend less time worrying about server maintenance and upgrades and spend more time relaxing! We handle everything for you and in the background so that you can spend more time focusing on your wiki and organization. 
+						</p>
+					</div>
+					<div class="column align-center p-2xl">
+						<img src="/images/marginalia-6.png" alt="Marginalia 6" class="feature-card" />
+					</div>
+				</div>
+				<div class="row items-center v-t">
+					<div class="column align-left p-2xl">
+						<h2 class="max-w-lg">
+							Tailored solutions around the corner
+						</h2>
+						<p class="text-lg">
+							Need more resources? Need custom extensions? Fear not! Our team of pros can help you at every step of the process. Contact our friendly team and we'll make sure to design custom solutions to fit your needs.
+						</p>
+					</div>
+					<div class="column align-center p-2xl">
+						<img src="/images/marginalia-7.png" alt="Marginalia 7" class="feature-card" />
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section main mt-2xl">
+			<div class="container mt-2xl mb-2xl">
+				<div class="row items-center">
+					<div class="column align-center">
+						<h1 class="max-w-lg text-giga text-center text-white">
+							What are you waiting for? Start now!
+						</h1>
+						<a href="https://meta.wikiforge.net/wiki/Special:RequestPremiumWiki" class="button xl main white mt-lg w-button">
+							Start my journey!
+						</a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -158,8 +250,8 @@
 					</div>
 					<div class="column align-left">
 						<h6 class="max-w-lg mb-xl footer-header">Resources</h6>
-						<div>FAQ</div>
-						<div>Help Center</div>
+						<a href="https://meta.wikiforge.net/wiki/Special:MyLanguage/FAQ" class="mt-md">FAQ</a>
+						<a href="https://meta.wikiforge.net/wiki/Special:MyLanguage/Help_center" class="mt-md">Help Center</a>
 					</div>
 				</div>
 				<div class="border-t mt-xl">
