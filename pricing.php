@@ -38,7 +38,7 @@
 					<div class="column align-left">
 						<a href="https://wikiforge.net" aria-current="page" class="w-inline-block w--current">
 							<div class="logo">
-								<img src="/images/WikiForge_Wordmark.svg" width="100" alt="WikiForge Wordmark" />
+								<img src="/images/WikiForge_Wordmark.svg" alt="WikiForge Wordmark" />
 							</div>
 						</a>
 					</div>
