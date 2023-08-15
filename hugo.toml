@@ -1,0 +1,3 @@
+baseURL = 'https://wikiforge.github.io/'
+languageCode = 'en-us'
+title = 'WikiForge Help'
