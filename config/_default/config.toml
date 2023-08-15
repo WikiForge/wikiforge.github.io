@@ -9,5 +9,3 @@ googleAnalytics = ''
 enableGitInfo = true
 
 markup.highlight.noClasses = false
-
-theme = 'docura'
