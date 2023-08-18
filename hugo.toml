@@ -15,7 +15,7 @@ title = 'WikiForge Help'
         twitter = "WikiForge"
 
 [params.docs]
-        pathName        = ""
+        pathName        = "help"
         darkMode        = true
         sidebarIcons    = true
         titleIcon       = true
