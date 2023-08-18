@@ -9,3 +9,14 @@ title = 'WikiForge Help'
     [[module.imports]]
         path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
         disable = false
+
+[params.social]
+        github = "WikiForge"
+        twitter = "WikiForge"
+
+[params.docs]
+        # pathName      = "docs"
+        darkMode        = true
+        sidebarIcons    = true
+        titleIcon       = true
+        lastMod         = true
